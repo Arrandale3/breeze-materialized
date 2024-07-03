@@ -21,40 +21,36 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="19.0625"
+     inkscape:zoom="19.1875"
      inkscape:cx="16"
      inkscape:cy="16"
      inkscape:window-width="1536"
-     inkscape:window-height="808"
+     inkscape:window-height="812"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g75" />
+     inkscape:current-layer="g73" />
   <style
      type="text/css"
      id="current-color-scheme">.ColorScheme-Text { color:#232629; }
 .ColorScheme-PositiveText { color:#27ae60; }
 </style>
-  <rect
-     class="cls-2"
-     x="0"
-     y="0"
-     width="32"
-     height="32"
-     id="rect22"
-     style="opacity:0;fill:#ffffff;stroke-width:0px" />
   <g
-     id="g75"
-     transform="matrix(1.4545455,0,0,1.4545455,-83.883633,-152.52364)">
-    <path
-       class="cls-1  ColorScheme-Text"
-       d="m 68.13,119.69 c 0,-0.42 0.07,-0.82 0.16,-1.22 h -5.32 v -5.7 h 11.4 v 1.93 c 1.55,0.35 2.83,1.41 3.49,2.82 h 0.31 v -3.8 h -1.9 v -1.9 c 0,-0.27 -0.09,-0.5 -0.27,-0.68 -0.18,-0.18 -0.41,-0.27 -0.68,-0.27 h -15.2 c -0.27,0 -0.5,0.09 -0.68,0.27 -0.18,0.18 -0.27,0.41 -0.27,0.68 v 7.6 c 0,0.27 0.09,0.5 0.27,0.68 0.18,0.18 0.41,0.27 0.68,0.27 h 8.07 c -0.03,-0.23 -0.07,-0.45 -0.07,-0.68 z"
-       id="path75"
-       style="fill:currentColor" />
-    <polygon
-       class="cls-1  ColorScheme-PositiveText"
-       points="73.67,118.83 75.81,118.83 72.82,123.1 72.82,120.54 70.68,120.54 73.67,116.27 "
-       id="polygon75"
-       style="fill:currentColor" />
+     id="g73"
+     transform="matrix(1.4545455,0,0,1.4545455,-166.4,-152.52364)">
+    <g
+       id="g74"
+       transform="translate(28.940012)">
+      <path
+         class="cls-1  ColorScheme-Text"
+         d="m 95.91,119.69 c 0,-0.42 0.07,-0.82 0.16,-1.22 H 91.7 v -5.7 h 10.45 v 1.93 c 1.55,0.35 2.83,1.41 3.49,2.82 h 0.31 v -3.8 h -1.9 v -1.9 c 0,-0.27 -0.09,-0.5 -0.27,-0.68 -0.18,-0.18 -0.41,-0.27 -0.68,-0.27 H 87.9 c -0.27,0 -0.5,0.09 -0.68,0.27 -0.18,0.18 -0.27,0.41 -0.27,0.68 v 7.6 c 0,0.27 0.09,0.5 0.27,0.68 0.18,0.18 0.41,0.27 0.68,0.27 h 8.07 c -0.03,-0.23 -0.07,-0.45 -0.07,-0.68 z"
+         id="path74"
+         style="fill:currentColor" />
+      <polygon
+         class="cls-1  ColorScheme-PositiveText"
+         points="101.45,116.27 101.45,118.83 103.59,118.83 100.6,123.1 100.6,120.54 98.46,120.54 "
+         id="polygon74"
+         style="fill:currentColor" />
+    </g>
   </g>
 </svg>
