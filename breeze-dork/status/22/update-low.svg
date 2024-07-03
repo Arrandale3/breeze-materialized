@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg7"
+   version="1.1"
+   viewBox="0 0 22 22"
+   sodipodi:docname="update-low.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="27.727273"
+     inkscape:cx="11.018033"
+     inkscape:cy="11"
+     inkscape:window-width="1536"
+     inkscape:window-height="808"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7" />
+  <defs
+     id="defs3">
+    <style
+       type="text/css"
+       id="current-color-scheme">.ColorScheme-Text { color:#232629; }
+.ColorScheme-Highlight { color:#3daee9; }
+</style>
+  </defs>
+  <g
+     id="g2"
+     transform="translate(-0.009772,-1.2820311)">
+    <g
+       id="g1">
+      <path
+         class="cls-1  ColorScheme-Text"
+         d="m 3.009772,20.282031 c -0.55,0 -1.025,-0.2 -1.4125,-0.5875 -0.3875,-0.3875 -0.5875,-0.8625 -0.5875,-1.4125 V 6.2820313 c 0,-0.55 0.2,-1.025 0.5875,-1.4125 0.3875,-0.3875 0.8625,-0.5875 1.4125,-0.5875 h 5 v 2 h -5 V 18.282031 h 16 V 6.2820313 h -5 v -2 h 5 c 0.55,0 1.025,0.2 1.4125,0.5875 0.3875,0.3875 0.5875,0.8625 0.5875,1.4125 V 18.282031 c 0,0.55 -0.2,1.025 -0.5875,1.4125 -0.3875,0.3875 -0.8625,0.5875 -1.4125,0.5875 z"
+         id="path78"
+         style="fill:currentColor;stroke-width:1.25"
+         sodipodi:nodetypes="ssssssccccccccsssssss" />
+      <path
+         d="m 11.009772,15.682031 -5,-5 1.4,-1.3999997 2.6,2.5999997 V 4.2820313 h 2 v 7.5999997 l 2.6,-2.5999997 1.4,1.3999997 z"
+         style="fill:currentColor;stroke-width:1.25"
+         id="path1"
+         class="ColorScheme-Highlight" />
+    </g>
+  </g>
+</svg>

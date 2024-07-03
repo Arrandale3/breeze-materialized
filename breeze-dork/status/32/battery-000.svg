@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="32"
+   width="32"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="battery-000.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="19.0625"
+     inkscape:cx="16"
+     inkscape:cy="16"
+     inkscape:window-width="1536"
+     inkscape:window-height="808"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <style
+     type="text/css"
+     id="current-color-scheme">.ColorScheme-NegativeText { color:#da4453; }
+</style>
+  <rect
+     class="cls-2"
+     x="0"
+     y="0"
+     width="32"
+     height="32"
+     id="rect40"
+     style="opacity:0;fill:#ffffff;stroke-width:0px" />
+  <path
+     class="cls-1  ColorScheme-NegativeText"
+     d="m 2.1818183,10.472726 c 0,-0.392727 0.1309091,-0.7272721 0.3927273,-0.9890908 C 2.8363638,9.2218165 3.1709092,9.0909077 3.5636365,9.0909077 H 25.672727 c 0.392728,0 0.727273,0.1309088 0.989091,0.3927275 0.261818,0.2618176 0.392727,0.5963638 0.392727,0.9890908 v 2.763637 h 2.763637 v 5.527272 h -2.763637 v 2.763636 c 0,0.392726 -0.130909,0.727275 -0.392727,0.989088 -0.261818,0.261821 -0.596363,0.39273 -0.989091,0.39273 H 3.5636365 c -0.3927273,0 -0.7272727,-0.130912 -0.9890909,-0.392725 -0.2618182,-0.26182 -0.3927273,-0.596365 -0.3927273,-0.989093 z m 2.7636364,1.381819 v 8.290908 H 24.290909 v -8.290908 z"
+     id="path45"
+     style="stroke-width:0px;fill:currentColor" />
+</svg>

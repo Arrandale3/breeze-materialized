@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="audio-volume-high-warning.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="27.909091"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:window-width="1536"
+     inkscape:window-height="812"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <style
+     id="current-color-scheme"
+     type="text/css">.ColorScheme-Text { color:#232629; }
+.ColorScheme-NeutralText { color:#f67400; }
+</style>
+  <path
+     class="cls-1  ColorScheme-Text"
+     d="m 2,14.022059 v -6 H 6.0000004 L 10.999999,3.0220582 V 19.022059 l -4.9999986,-5 z"
+     id="path32"
+     style="fill:currentColor;"
+     sodipodi:nodetypes="ccccccc" />
+  <path
+     d="M 12.999999,19.742648 V 17.69853 c 1.500002,-0.426471 2.705884,-1.264706 3.617648,-2.5 0.911765,-1.235295 1.367647,-2.632353 1.367647,-4.205882 0,-1.5735304 -0.455882,-2.9705889 -1.367647,-4.1911775 C 15.705883,5.580882 14.500001,4.7426466 12.999999,4.3014701 V 2.2573523 C 15.058824,2.7279405 16.75,3.7720584 18.044118,5.3897055 19.338236,7.0073524 20,8.8897052 20,10.992648 c 0,2.102941 -0.647058,3.985294 -1.955882,5.617646 -1.294118,1.617647 -2.985294,2.676472 -5.044119,3.132354 z"
+     style="fill:currentColor"
+     id="path1"
+     class="ColorScheme-NeutralText" />
+  <path
+     d="M 12.999999,15.02206 V 6.9779402 c 0.779413,0.3676477 1.39706,0.9117661 1.838236,1.6470597 C 15.279412,9.3602934 15.5,10.154412 15.5,11.022058 c 0,0.867648 -0.220588,1.632355 -0.661765,2.367648 -0.441176,0.735294 -1.058823,1.264706 -1.838236,1.632354 z"
+     style="fill:currentColor"
+     id="path1-7"
+     class="ColorScheme-NeutralText" />
+</svg>
