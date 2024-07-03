@@ -1,1 +1,46 @@
-<svg viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg"><style type="text/css" id="current-color-scheme">.ColorScheme-Text{color:#232629;}.ColorScheme-NeutralText{color:#f67400;}</style><path d="m10.988281 3-4.988281 4.9902344v.0097656 1 4 1 .009766l4.988281 4.990234h1.011719v-.402344-15.1953122-.4023438zm-7.988281 5v1 4 1h2v-1-4-1z" style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text"/><circle cx="16" cy="11" style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-NeutralText" r="3"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="audio-ready.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="27.909091"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:window-width="1536"
+     inkscape:window-height="812"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <style
+     type="text/css"
+     id="current-color-scheme">.ColorScheme-Text{color:#232629;}.ColorScheme-NeutralText{color:#f67400;}</style>
+  <path
+     class="cls-1  ColorScheme-Text "
+     d="M 2.7800019,13.77 V 8.2799998 h 3.66 l 4.5700001,-4.57 V 18.34 L 6.4400019,13.77 Z"
+     id="path62"
+     style="fill:currentColor"
+     sodipodi:nodetypes="ccccccc" />
+  <path
+     d="M 12.830002,14.68 V 7.3199998 c 0.72,0.34 1.28,0.84 1.68,1.51 0.4,0.67 0.61,1.4000002 0.61,2.1900002 0,0.79 -0.2,1.5 -0.61,2.16 -0.41,0.66 -0.96,1.16 -1.68,1.5 z"
+     style="fill:currentColor;"
+     id="path1-9"
+     class="ColorScheme-Text  ColorScheme-NeutralText" />
+</svg>
